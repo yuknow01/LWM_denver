@@ -1,0 +1,8 @@
+=== Training LWM ===
+[01/001] TrainLoss: 0.050083  ValLoss: 0.027896  Val RMSE: 0.1670  Val NMSE: 1.0001  Val NMSE_dB: 0.000407 dB  TrainTime: 7.14s
+============================================================
+=> Best ValLoss   : 0.027896   (epoch 1)
+=> Best Val NMSE  : 1.0001   (epoch 1)
+=> Best Val RMSE  : 0.1670   (epoch 1)
+=> Best Val NMSE_dB: 0.0004 dB (epoch 1)
+============================================================

@@ -1,17 +1,17 @@
 === Training LWM ===
-[01/010] TrainLoss: 0.060154  ValLoss: 0.027891  Val RMSE: 0.1670  Val NMSE: 0.9999  Val NMSE_dB: -0.000404 dB  TrainTime: 14.71s
-[02/010] TrainLoss: 0.027959  ValLoss: 0.019335  Val RMSE: 0.1391  Val NMSE: 0.6932  Val NMSE_dB: -1.591204 dB  TrainTime: 14.55s
-[03/010] TrainLoss: 0.014339  ValLoss: 0.001511  Val RMSE: 0.0389  Val NMSE: 0.0542  Val NMSE_dB: -12.661591 dB  TrainTime: 13.44s
-[04/010] TrainLoss: 0.002882  ValLoss: 0.000733  Val RMSE: 0.0271  Val NMSE: 0.0263  Val NMSE_dB: -15.801305 dB  TrainTime: 14.42s
-[05/010] TrainLoss: 0.001703  ValLoss: 0.000331  Val RMSE: 0.0182  Val NMSE: 0.0119  Val NMSE_dB: -19.250267 dB  TrainTime: 13.67s
-[06/010] TrainLoss: 0.001277  ValLoss: 0.000243  Val RMSE: 0.0156  Val NMSE: 0.0087  Val NMSE_dB: -20.597892 dB  TrainTime: 13.26s
-[07/010] TrainLoss: 0.001039  ValLoss: 0.000192  Val RMSE: 0.0138  Val NMSE: 0.0069  Val NMSE_dB: -21.631370 dB  TrainTime: 14.38s
-[08/010] TrainLoss: 0.000880  ValLoss: 0.000137  Val RMSE: 0.0117  Val NMSE: 0.0049  Val NMSE_dB: -23.078464 dB  TrainTime: 13.29s
-[09/010] TrainLoss: 0.000762  ValLoss: 0.000108  Val RMSE: 0.0104  Val NMSE: 0.0039  Val NMSE_dB: -24.109559 dB  TrainTime: 14.44s
-[10/010] TrainLoss: 0.000672  ValLoss: 0.000089  Val RMSE: 0.0094  Val NMSE: 0.0032  Val NMSE_dB: -24.956223 dB  TrainTime: 14.00s
+[01/010] TrainLoss: 0.064728  ValLoss: 0.027925  Val RMSE: 0.1671  Val NMSE: 1.0011  Val NMSE_dB: 0.004900 dB  TrainTime: 14.71s
+[02/010] TrainLoss: 0.028266  ValLoss: 0.027641  Val RMSE: 0.1663  Val NMSE: 0.9909  Val NMSE_dB: -0.039500 dB  TrainTime: 203.31s
+[03/010] TrainLoss: 0.021631  ValLoss: 0.014961  Val RMSE: 0.1223  Val NMSE: 0.5363  Val NMSE_dB: -2.705518 dB  TrainTime: 14.45s
+[04/010] TrainLoss: 0.008303  ValLoss: 0.000953  Val RMSE: 0.0309  Val NMSE: 0.0342  Val NMSE_dB: -14.661424 dB  TrainTime: 15.44s
+[05/010] TrainLoss: 0.002210  ValLoss: 0.000505  Val RMSE: 0.0225  Val NMSE: 0.0181  Val NMSE_dB: -17.425569 dB  TrainTime: 13.75s
+[06/010] TrainLoss: 0.001555  ValLoss: 0.000296  Val RMSE: 0.0172  Val NMSE: 0.0106  Val NMSE_dB: -19.736931 dB  TrainTime: 14.70s
+[07/010] TrainLoss: 0.001218  ValLoss: 0.000253  Val RMSE: 0.0159  Val NMSE: 0.0091  Val NMSE_dB: -20.425082 dB  TrainTime: 13.79s
+[08/010] TrainLoss: 0.001003  ValLoss: 0.000233  Val RMSE: 0.0153  Val NMSE: 0.0083  Val NMSE_dB: -20.787815 dB  TrainTime: 13.73s
+[09/010] TrainLoss: 0.000862  ValLoss: 0.000154  Val RMSE: 0.0124  Val NMSE: 0.0055  Val NMSE_dB: -22.580802 dB  TrainTime: 14.48s
+[10/010] TrainLoss: 0.000748  ValLoss: 0.000133  Val RMSE: 0.0115  Val NMSE: 0.0048  Val NMSE_dB: -23.225947 dB  TrainTime: 13.71s
 ============================================================
-=> Best ValLoss   : 0.000089   (epoch 10)
-=> Best Val NMSE  : 0.0032   (epoch 10)
-=> Best Val RMSE  : 0.0094   (epoch 10)
-=> Best Val NMSE_dB: -24.9562 dB (epoch 10)
+=> Best ValLoss   : 0.000133   (epoch 10)
+=> Best Val NMSE  : 0.0048   (epoch 10)
+=> Best Val RMSE  : 0.0115   (epoch 10)
+=> Best Val NMSE_dB: -23.2259 dB (epoch 10)
 ============================================================

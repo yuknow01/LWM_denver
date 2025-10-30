@@ -1,0 +1,8 @@
+=== Training CNN ===
+[01/001] TrainLoss: 0.026234  ValLoss: 0.020826  Val RMSE: 0.1443  Val NMSE: 0.7466  Val NMSE_dB: -1.269141 dB  TrainTime: 1.25s
+============================================================
+=> Best ValLoss   : 0.020826   (epoch 1)
+=> Best Val NMSE  : 0.7466   (epoch 1)
+=> Best Val RMSE  : 0.1443   (epoch 1)
+=> Best Val NMSE_dB: -1.2691 dB (epoch 1)
+============================================================
