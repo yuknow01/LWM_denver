@@ -1,0 +1,8 @@
+=== Training MLP ===
+[01/001] TrainLoss: 0.010224  ValLoss: 0.006887  Val RMSE: 0.0830  Val NMSE: 0.2400  Val NMSE_dB: -6.197796 dB  TrainTime: 4.48s
+============================================================
+=> Best ValLoss   : 0.006887   (epoch 1)
+=> Best Val NMSE  : 0.2400   (epoch 1)
+=> Best Val RMSE  : 0.0830   (epoch 1)
+=> Best Val NMSE_dB: -6.1978 dB (epoch 1)
+============================================================
